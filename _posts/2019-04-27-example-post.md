@@ -8,9 +8,9 @@ Hi, its quite simple to upload a post if you follow these steps.
 
 * Create a new file in your GitHub Repository under the '_Posts' folder
 
-* Nameing convention for your file: _yyyy-mm-dd-title.md_
+* Nameing convention for your file: yyyy-mm-dd-title.md
 
-* At the top of your page copy and update the below:
+* At the top of your post.md page copy and update the below:
 
 {% highlight markdown %}
 
@@ -20,8 +20,9 @@ title: "INSERT TITLE"
 author: "INSERT AUTHOR"
 ---
 
-{% endhighlight %}
-
+# Heading
 Now you file is ready to add your content.
+
+{% endhighlight %}
 
 Good luck!
