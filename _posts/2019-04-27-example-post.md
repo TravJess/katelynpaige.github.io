@@ -13,13 +13,15 @@ Hi, its quite simple to upload a post if you follow these steps.
 * At the top of your page copy and update the below:
 
 {% highlight markdown %}
+
 ---
 layout: post
 title: "INSERT TITLE"
 author: "INSERT AUTHOR"
 ---
+
 {% endhighlight %}
 
-*Now you file is ready to add your content.
+Now you file is ready to add your content.
 
 Good luck!
