@@ -1,0 +1,11 @@
+--
+layout: post
+title:  "New Blog KatelynPaige"
+author: "Travis"
+---
+
+## KatelynPaige
+
+Create a File in _Posts to add content to this site.
+
+Head over to the [Example Content]({{ site.baseurl }}/2017-03-16/example-content) post for a showcase of KatelynPaige's text formatting features.
