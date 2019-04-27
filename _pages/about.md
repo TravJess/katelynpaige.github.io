@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "About"
-author: "TravJess"
+author: "Travis Barlow"
 permalink: /about/
 ---
 
-Insert About Me for TravJess.
+Insert About Me
 
 Thanks for reading!
