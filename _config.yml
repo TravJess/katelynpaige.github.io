@@ -1,6 +1,7 @@
 # Site settings
 title:          KatelynPaige
 description:    "Minimal Jekyll theme for storytellers"
+baseurl:        "/katelynpaige"
 url:            "https://travjess.github.io"
 
 # Google Analytics
