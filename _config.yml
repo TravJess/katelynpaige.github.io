@@ -1,7 +1,7 @@
 # Site settings
 title:          KatelynPaige
 description:    "Minimal Jekyll theme for storytellers"
-url:            "https://katelynpaige.github.io"
+url:            "https://travjess.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -9,7 +9,7 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Travis Barlow
-  url:          https://github.com/TravJess/katelynpaige.github.io
+  url:          https://github.com/TravJess/travjess.github.io
   email:        aztravjess@gmail.com
 
 # Build settings
