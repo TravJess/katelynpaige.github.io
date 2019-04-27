@@ -11,6 +11,7 @@ Hi, its quite simple to upload a post if you follow these steps.
 * Nameing convention for your file: _yyyy-mm-dd-title.md_
 
 * At the top of your page copy and update the below:
+
 {% highlight markdown %}
 ---
 layout: post
